@@ -6,7 +6,7 @@ namespace Exerc_125
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
